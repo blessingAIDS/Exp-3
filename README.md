@@ -37,8 +37,7 @@ Provide an integrated system to manage train schedules, reservations, ticketing,
 ![PackageDiagram3](https://github.com/user-attachments/assets/915090d2-754f-4ac3-8f20-12c9b458019b)
 
 # COMMUNICATION DIAGRAM:
-![CommunicationDiagram3](https://github.com/user-attachments/assets/3a3a0041-d95c-4f17-8978-bd29fe06771b)
-
+<img width="1108" height="708" alt="Screenshot 2025-11-06 151529" src="https://github.com/user-attachments/assets/46e12d67-9de4-436f-b8c5-d2028b0321d0" />
 
 # RESULT:
 
